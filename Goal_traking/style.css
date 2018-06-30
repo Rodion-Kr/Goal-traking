@@ -1,0 +1,31 @@
+#plus{
+	cursor:pointer;
+	font-family: dashicons;
+}
+
+#plus:before {
+    content: '\271A';
+    color: #7b7b7b;
+    font-size: 13px;
+    cursor: pointer;
+    transition: all .3s;
+}
+
+#plus:hover:before{
+	color:#0085ba;
+}
+
+.id{
+	width: 16px;
+	display: inline-block;
+}
+
+#send{
+	cursor:pointer;
+}
+
+#bltable input[type="number"]::-webkit-outer-spin-button,
+#bltable input[type="number"]::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
