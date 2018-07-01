@@ -1,7 +1,7 @@
 <?
 /*
-Plugin Name: Goal traking
-Description: Goal traking plugin
+Plugin Name: 
+Description: 
 Version: 1.0
 Author: 
 Author URI: http://
